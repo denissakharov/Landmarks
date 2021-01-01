@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F33ED15F259F9199007E029E /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F33ED15E259F9199007E029E /* MapView.swift */; };
 		F3DE1743259F810F00FFAF9C /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3DE1742259F810F00FFAF9C /* LandmarksApp.swift */; };
 		F3DE1745259F810F00FFAF9C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3DE1744259F810F00FFAF9C /* ContentView.swift */; };
 		F3DE1747259F811200FFAF9C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3DE1746259F811200FFAF9C /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F33ED15E259F9199007E029E /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		F3DE173F259F810F00FFAF9C /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3DE1742259F810F00FFAF9C /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		F3DE1744259F810F00FFAF9C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				F3DE1744259F810F00FFAF9C /* ContentView.swift */,
 				F3DE1746259F811200FFAF9C /* Assets.xcassets */,
 				F3DE1754259F8B7C00FFAF9C /* CircleImage.swift */,
+				F33ED15E259F9199007E029E /* MapView.swift */,
 				F3DE174B259F811200FFAF9C /* Info.plist */,
 				F3DE1748259F811200FFAF9C /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F3DE1745259F810F00FFAF9C /* ContentView.swift in Sources */,
+				F33ED15F259F9199007E029E /* MapView.swift in Sources */,
 				F3DE1743259F810F00FFAF9C /* LandmarksApp.swift in Sources */,
 				F3DE1755259F8B7C00FFAF9C /* CircleImage.swift in Sources */,
 			);
